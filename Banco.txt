@@ -1,0 +1,4 @@
+CREATE TABLE revista(
+id integer(100) ,
+nome varchar(100))ENGINE=InnoDB;
+alter table nome add id INT NOT NULL PRIMARY KEY auto_increment;
